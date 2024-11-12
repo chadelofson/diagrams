@@ -8,12 +8,12 @@
           <mxGeometry x="20" y="50" width="580" height="580" as="geometry" />
         </mxCell>
         <mxCell id="3YqL1lU9jh0eL-Hzpn0H-2" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="480" width="40" height="60" as="geometry" />
+          <mxGeometry x="750" y="435" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3YqL1lU9jh0eL-Hzpn0H-3" value="Firewall/Gateway" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" vertex="1" parent="1">
+        <mxCell id="3YqL1lU9jh0eL-Hzpn0H-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Firewall/Gateway&lt;/b&gt;&lt;/font&gt;" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" vertex="1" parent="1">
           <mxGeometry x="370" y="440" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3YqL1lU9jh0eL-Hzpn0H-4" value="WIX" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/web_server.svg;" vertex="1" parent="1">
+        <mxCell id="3YqL1lU9jh0eL-Hzpn0H-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Web Server&lt;/b&gt;&lt;/font&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/web_server.svg;" vertex="1" parent="1">
           <mxGeometry x="350" y="120" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="3YqL1lU9jh0eL-Hzpn0H-6" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;CLEVER&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;OAuth&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -41,16 +41,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3YqL1lU9jh0eL-Hzpn0H-15" value="&lt;u&gt;LAUSD USER&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="550" width="120" height="30" as="geometry" />
+          <mxGeometry x="720" y="500" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3YqL1lU9jh0eL-Hzpn0H-16" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="730" y="520" as="sourcePoint" />
-            <mxPoint x="580" y="520" as="targetPoint" />
+            <mxPoint x="740" y="495" as="sourcePoint" />
+            <mxPoint x="610" y="495" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3YqL1lU9jh0eL-Hzpn0H-17" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;TLS 1.2 Port 443&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="465" width="120" height="30" as="geometry" />
+          <mxGeometry x="610" y="435" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3YqL1lU9jh0eL-Hzpn0H-18" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;https://www.school-yoga.org/&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="60" width="260" height="30" as="geometry" />
@@ -61,17 +61,29 @@
         <mxCell id="3YqL1lU9jh0eL-Hzpn0H-20" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;TLS 1.2 Port 443&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="180" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3YqL1lU9jh0eL-Hzpn0H-21" value="www.school-yoga.org - curriculum" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
+        <mxCell id="3YqL1lU9jh0eL-Hzpn0H-21" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;www.school-yoga.org&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;(AES-256)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
           <mxGeometry x="110" y="130" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3YqL1lU9jh0eL-Hzpn0H-24" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;TLS 1.2 Port 443&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="120" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3YqL1lU9jh0eL-Hzpn0H-27" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.362;entryY=0.655;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" edge="1" parent="1">
+        <mxCell id="3YqL1lU9jh0eL-Hzpn0H-27" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=3;exitX=0.345;exitY=0.552;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="169.60000000000002" as="sourcePoint" />
-            <mxPoint x="349.96000000000004" y="169.5000000000001" as="targetPoint" />
+            <mxPoint x="340.0999999999999" y="169.66000000000008" as="sourcePoint" />
+            <mxPoint x="199.99586854460085" y="169.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3YqL1lU9jh0eL-Hzpn0H-28" value="&lt;div style=&quot;caret-color: rgb(0, 0, 0); text-align: start; font-family: &amp;quot;Times New Roman&amp;quot;, Times, serif; line-height: 1.2; font-size: 14px;&quot; data-ogsc=&quot;rgb(0, 0, 0)&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Smiling Calm Hearts Open Our Learning, Inc.&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="560" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3YqL1lU9jh0eL-Hzpn0H-29" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;11/12/2024&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3YqL1lU9jh0eL-Hzpn0H-31" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;WIX&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="590" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3YqL1lU9jh0eL-Hzpn0H-32" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;North America via AWS &amp;amp; GCP&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="590" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

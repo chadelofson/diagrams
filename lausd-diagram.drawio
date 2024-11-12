@@ -67,10 +67,10 @@
         <mxCell id="3YqL1lU9jh0eL-Hzpn0H-24" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;TLS 1.2 Port 443&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="120" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3YqL1lU9jh0eL-Hzpn0H-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.017;entryY=0.724;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" edge="1" parent="1">
+        <mxCell id="3YqL1lU9jh0eL-Hzpn0H-27" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.362;entryY=0.655;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340.14" y="169.57999999999998" as="sourcePoint" />
-            <mxPoint x="189.9999999999999" y="169.50000000000006" as="targetPoint" />
+            <mxPoint x="180" y="169.60000000000002" as="sourcePoint" />
+            <mxPoint x="349.96000000000004" y="169.5000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
